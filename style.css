@@ -1,0 +1,113 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+  gap: 50px;
+}
+
+#filter {
+  padding: 50px;
+  margin: auto;
+  max-width: 750px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 25px;
+}
+
+#filter input {
+  width: 100%;
+  height: 75px;
+  border: 1px solid #5a5a5a;
+  outline: none;
+  border-radius: 250px;
+  padding: 25px;
+  font-size: 32px;
+}
+
+#filter select {
+  width: fit-content;
+  font-size: 32px;
+  padding: 10px;
+  background: black;
+  color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+#filter #priceFilterEl {
+  appearance: none;
+  width: 50%;
+  padding: 0px !important;
+  height: 20px;
+  outline: none;
+}
+
+#filter #priceRangeEl {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.product {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  max-width: 400px;
+
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.1);
+}
+
+.product img {
+  max-width: 350px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 25px;
+}
+
+@media screen and (max-width: 460px) {
+  .container {
+    margin: 10px;
+  }
+
+  #filter {
+    padding: 25px;
+  }
+
+  #filter input[type="text"] {
+    height: 10px;
+    padding: 20px;
+  }
+
+  #filter input {
+    font-size: 12px;
+  }
+
+  #filter select {
+    font-size: 18px;
+  }
+
+  #filter select {
+    width: 100%;
+  }
+
+  .product {
+    width: 100%;
+    padding: 15px;
+  }
+
+  .product img {
+    width: 100%;
+  }
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "img": "https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2022/10/condo-vs-apartment.jpeg.jpg",
+    "name": "Rafaello",
+    "type": "Apartment",
+    "price": 150000
+  },
+  {
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixPdSl7.SV8A/v1/-1x-1.jpg",
+    "name": "Milka",
+    "type": "Apartment",
+    "price": 25000
+  },
+  {
+    "img": "https://www.bhg.com/thmb/H9VV9JNnKl-H1faFXnPlQfNprYw=/1799x0/filters:no_upscale():strip_icc()/white-modern-house-curved-patio-archway-c0a4a3b3-aa51b24d14d0464ea15d36e05aa85ac9.jpg",
+    "name": "Rose",
+    "type": "House",
+    "price": 95499
+  },
+  {
+    "img": "https://foyr.com/learn/wp-content/uploads/2022/06/types-of-house-styles-and-homes.jpg",
+    "name": "Atlas",
+    "type": "House",
+    "price": 875000
+  },
+
+  {
+    "img": "https://apollostore.blob.core.windows.net/woodlandhillstulsa/uploads/assets/woodland-hills-tulsa-ok-primary-photo.8780ce13-179c-4624-8f9c-a71c1cea166c.jpg",
+    "name": "MilkyWay",
+    "type": "Apartment",
+    "price": 5750000
+  },
+  {
+    "img": "https://www.realestate.com.au/news-image/w_800,h_600/v1657586179/news-lifestyle-content-assets/wp-content/production/image11.jpg?_i=AA",
+    "name": "Botanica",
+    "type": "Penthouse",
+    "price": 200000
+  },
+  {
+    "img": "https://www.tennessean.com/gcdn/presto/2019/10/11/PNAS/adf1101a-0f8c-404f-9df3-5837bf387dfd-1_Exterior_House_Beautiful_Whole_Home_Concept_House_Castle_Homes_Photo_Reed_Brown_Photography.jpg?crop=5619,3161,x0,y104&width=3200&height=1801&format=pjpg&auto=webp",
+    "name": "AOC",
+    "type": "House",
+    "price": 3120000
+  },
+  {
+    "img": "https://resource.rentcafe.com/image/upload/x_0,y_0,w_2560,h_1439,c_crop/q_auto,f_auto,c_lfill,w_576,ar_1.2/s3/2/111265/weidner-wisconsin_the-park_building_exterior-1.jpg",
+    "name": "Genius",
+    "type": "Penthouse",
+    "price": 6700000
+  }
+]
